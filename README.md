@@ -1,4 +1,5 @@
-#To-Do App
+To-Do App
+
 A simple and easy-to-use To-Do list web app built using HTML, CSS, and JavaScript. You can add, edit, and delete tasks. All your tasks are saved in the browser using localStorage.
 
 Features
@@ -31,5 +32,5 @@ Tech Used
 3) JavaScript
 4) LocalStorage API
 
-License
+License: 
 This project is free to use for learning and personal use.
